@@ -1,2 +1,2 @@
 <?php 
-//quest
+//stashの練習3
