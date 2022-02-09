@@ -1,2 +1,2 @@
 <?php 
-//stash&pop練習1
+//stash&pop練習(1)
