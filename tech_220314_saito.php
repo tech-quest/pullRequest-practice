@@ -1,2 +1,2 @@
 <?php
-//  tech
+//  tstashの練習
