@@ -1,2 +1,2 @@
 <?php
-//   git
+//   stash練習
