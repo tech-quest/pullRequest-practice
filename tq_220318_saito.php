@@ -1,2 +1,3 @@
 <?php
-// stashの練習
+// tq
+//stash&pop練習1
