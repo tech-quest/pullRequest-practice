@@ -1,2 +1,3 @@
 <?php
-//  tstashの練習
+//  stashの練習
+//stash&pop練習1
