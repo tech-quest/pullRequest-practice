@@ -1,3 +1,3 @@
 <?php 
 echo "TECH QUEST";
-echo "miwaza";
+echo "御業";
