@@ -1,1 +1,2 @@
-日付時刻_名前/index.php
+<?php
+echo "stashとpopの練習をしたい！！！";
