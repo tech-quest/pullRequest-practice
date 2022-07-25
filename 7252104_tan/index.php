@@ -1,3 +1,3 @@
 <?php
 echo "コンフリクトを";
-echo "コンフリクトprepare";
+echo "こんこんここ近！";
