@@ -1,4 +1,4 @@
 <?php
 
 echo "merge忘れちゃった";
-echo "mergemergemergemerge";
+echo "merge忘れたらあかんよ";
