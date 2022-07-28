@@ -1,2 +1,2 @@
 <?php
-echo "stashとぅpopの練習"
+echo "stashとぅpopの練習しちゃうよ";
