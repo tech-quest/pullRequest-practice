@@ -1,3 +1,2 @@
-
-  <?php
-echo "popの練習をしたい！！！";
+<?php
+echo "stash練習";
