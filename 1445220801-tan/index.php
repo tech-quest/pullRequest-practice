@@ -1,3 +1,3 @@
 <?php
 
-echo "stash test";
+echo "stash test pop";
