@@ -1,3 +1,3 @@
 <?php
 echo "TECH QUEST";
-echo "miwazaa";
+echo "miwaza";
