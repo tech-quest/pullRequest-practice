@@ -1,4 +1,4 @@
 <?php
 echo "テッククエスト";
 
-echo "みわざ";
+echo "miwaza";
