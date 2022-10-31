@@ -2,4 +2,4 @@
 echo "テッククエスト";
 
 echo "miwaza";
-echo"three times"
+echo "３回目";
